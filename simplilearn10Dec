@@ -1,0 +1,1 @@
+docker push ghcr.io/deselikem/hello-docker-gcr-demo:latest
