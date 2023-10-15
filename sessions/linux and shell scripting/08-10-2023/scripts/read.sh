@@ -5,4 +5,4 @@ echo "hello $name"
 
 echo " what is ur age?"
 read age
-print "I am $age years old"
+echo "I am $age years old"
